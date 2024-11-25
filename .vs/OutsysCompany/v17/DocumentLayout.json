@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\codeline User\\Downloads\\OutsysCompany\\OutsysCompany\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBE4740-8AA1-4A1C-9207-EE7DCD31B3F0}|OutsysCompany.csproj|c:\\users\\codeline user\\downloads\\outsyscompany\\outsyscompany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EBE4740-8AA1-4A1C-9207-EE7DCD31B3F0}|OutsysCompany.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBE4740-8AA1-4A1C-9207-EE7DCD31B3F0}|OutsysCompany.csproj|c:\\users\\codeline user\\downloads\\outsyscompany\\outsyscompany\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EBE4740-8AA1-4A1C-9207-EE7DCD31B3F0}|OutsysCompany.csproj|solutionrelative:applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBE4740-8AA1-4A1C-9207-EE7DCD31B3F0}|OutsysCompany.csproj|c:\\users\\codeline user\\downloads\\outsyscompany\\outsyscompany\\repositories\\dependentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EBE4740-8AA1-4A1C-9207-EE7DCD31B3F0}|OutsysCompany.csproj|solutionrelative:repositories\\dependentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBE4740-8AA1-4A1C-9207-EE7DCD31B3F0}|OutsysCompany.csproj|c:\\users\\codeline user\\downloads\\outsyscompany\\outsyscompany\\repositories\\departementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EBE4740-8AA1-4A1C-9207-EE7DCD31B3F0}|OutsysCompany.csproj|solutionrelative:repositories\\departementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBE4740-8AA1-4A1C-9207-EE7DCD31B3F0}|OutsysCompany.csproj|c:\\users\\codeline user\\downloads\\outsyscompany\\outsyscompany\\models\\workson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EBE4740-8AA1-4A1C-9207-EE7DCD31B3F0}|OutsysCompany.csproj|solutionrelative:models\\workson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBE4740-8AA1-4A1C-9207-EE7DCD31B3F0}|OutsysCompany.csproj|c:\\users\\codeline user\\downloads\\outsyscompany\\outsyscompany\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EBE4740-8AA1-4A1C-9207-EE7DCD31B3F0}|OutsysCompany.csproj|solutionrelative:models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBE4740-8AA1-4A1C-9207-EE7DCD31B3F0}|OutsysCompany.csproj|c:\\users\\codeline user\\downloads\\outsyscompany\\outsyscompany\\repositories\\attedencerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EBE4740-8AA1-4A1C-9207-EE7DCD31B3F0}|OutsysCompany.csproj|solutionrelative:repositories\\attedencerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBE4740-8AA1-4A1C-9207-EE7DCD31B3F0}|OutsysCompany.csproj|c:\\users\\codeline user\\downloads\\outsyscompany\\outsyscompany\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EBE4740-8AA1-4A1C-9207-EE7DCD31B3F0}|OutsysCompany.csproj|solutionrelative:repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBE4740-8AA1-4A1C-9207-EE7DCD31B3F0}|OutsysCompany.csproj|c:\\users\\codeline user\\downloads\\outsyscompany\\outsyscompany\\repositories\\worksonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EBE4740-8AA1-4A1C-9207-EE7DCD31B3F0}|OutsysCompany.csproj|solutionrelative:repositories\\worksonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBE4740-8AA1-4A1C-9207-EE7DCD31B3F0}|OutsysCompany.csproj|c:\\users\\codeline user\\downloads\\outsyscompany\\outsyscompany\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EBE4740-8AA1-4A1C-9207-EE7DCD31B3F0}|OutsysCompany.csproj|solutionrelative:repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBE4740-8AA1-4A1C-9207-EE7DCD31B3F0}|OutsysCompany.csproj|c:\\users\\codeline user\\downloads\\outsyscompany\\outsyscompany\\repositories\\deptlocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EBE4740-8AA1-4A1C-9207-EE7DCD31B3F0}|OutsysCompany.csproj|solutionrelative:repositories\\deptlocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBE4740-8AA1-4A1C-9207-EE7DCD31B3F0}|OutsysCompany.csproj|c:\\users\\codeline user\\downloads\\outsyscompany\\outsyscompany\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EBE4740-8AA1-4A1C-9207-EE7DCD31B3F0}|OutsysCompany.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBE4740-8AA1-4A1C-9207-EE7DCD31B3F0}|OutsysCompany.csproj|c:\\users\\codeline user\\downloads\\outsyscompany\\outsyscompany\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EBE4740-8AA1-4A1C-9207-EE7DCD31B3F0}|OutsysCompany.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorksOn.cs",
+              "DocumentMoniker": "C:\\Users\\codeline User\\Downloads\\OutsysCompany\\OutsysCompany\\Models\\WorksOn.cs",
+              "RelativeDocumentMoniker": "Models\\WorksOn.cs",
+              "ToolTip": "C:\\Users\\codeline User\\Downloads\\OutsysCompany\\OutsysCompany\\Models\\WorksOn.cs",
+              "RelativeToolTip": "Models\\WorksOn.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:28:45.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\codeline User\\Downloads\\OutsysCompany\\OutsysCompany\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "Models\\Project.cs",
+              "ToolTip": "C:\\Users\\codeline User\\Downloads\\OutsysCompany\\OutsysCompany\\Models\\Project.cs",
+              "RelativeToolTip": "Models\\Project.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:28:35.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AttedenceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\codeline User\\Downloads\\OutsysCompany\\OutsysCompany\\Repositories\\AttedenceRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\AttedenceRepository.cs",
+              "ToolTip": "C:\\Users\\codeline User\\Downloads\\OutsysCompany\\OutsysCompany\\Repositories\\AttedenceRepository.cs",
+              "RelativeToolTip": "Repositories\\AttedenceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T08:16:15.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WorksOnRepository.cs",
+              "DocumentMoniker": "C:\\Users\\codeline User\\Downloads\\OutsysCompany\\OutsysCompany\\Repositories\\WorksOnRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\WorksOnRepository.cs",
+              "ToolTip": "C:\\Users\\codeline User\\Downloads\\OutsysCompany\\OutsysCompany\\Repositories\\WorksOnRepository.cs",
+              "RelativeToolTip": "Repositories\\WorksOnRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA6wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T08:16:55.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DependentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\codeline User\\Downloads\\OutsysCompany\\OutsysCompany\\Repositories\\DependentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\DependentRepository.cs",
+              "ToolTip": "C:\\Users\\codeline User\\Downloads\\OutsysCompany\\OutsysCompany\\Repositories\\DependentRepository.cs",
+              "RelativeToolTip": "Repositories\\DependentRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:51:52.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\codeline User\\Downloads\\OutsysCompany\\OutsysCompany\\Repositories\\ProjectRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProjectRepository.cs",
+              "ToolTip": "C:\\Users\\codeline User\\Downloads\\OutsysCompany\\OutsysCompany\\Repositories\\ProjectRepository.cs",
+              "RelativeToolTip": "Repositories\\ProjectRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA6wDsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:52:01.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartementRepository.cs",
+              "DocumentMoniker": "C:\\Users\\codeline User\\Downloads\\OutsysCompany\\OutsysCompany\\Repositories\\DepartementRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\DepartementRepository.cs",
+              "ToolTip": "C:\\Users\\codeline User\\Downloads\\OutsysCompany\\OutsysCompany\\Repositories\\DepartementRepository.cs",
+              "RelativeToolTip": "Repositories\\DepartementRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:17:45.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\codeline User\\Downloads\\OutsysCompany\\OutsysCompany\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\codeline User\\Downloads\\OutsysCompany\\OutsysCompany\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Repositories\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T09:09:27.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeptLocationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\codeline User\\Downloads\\OutsysCompany\\OutsysCompany\\Repositories\\DeptLocationRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\DeptLocationRepository.cs",
+              "ToolTip": "C:\\Users\\codeline User\\Downloads\\OutsysCompany\\OutsysCompany\\Repositories\\DeptLocationRepository.cs",
+              "RelativeToolTip": "Repositories\\DeptLocationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:51:54.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\codeline User\\Downloads\\OutsysCompany\\OutsysCompany\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "C:\\Users\\codeline User\\Downloads\\OutsysCompany\\OutsysCompany\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAIBAwBYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T06:35:41.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\codeline User\\Downloads\\OutsysCompany\\OutsysCompany\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\codeline User\\Downloads\\OutsysCompany\\OutsysCompany\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACMBAAAAAAAAAAAuwCMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T04:13:54.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\codeline User\\Downloads\\OutsysCompany\\OutsysCompany\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\codeline User\\Downloads\\OutsysCompany\\OutsysCompany\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ApplicationDbContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:59:49.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\codeline User\\Downloads\\OutsysCompany\\OutsysCompany\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\codeline User\\Downloads\\OutsysCompany\\OutsysCompany\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T06:44:21.09Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
